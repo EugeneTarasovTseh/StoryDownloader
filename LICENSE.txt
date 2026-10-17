@@ -1,0 +1,5 @@
+StoryDownloader Windows Beta 0.1.0-beta.2
+Copyright (c) 2026. All rights reserved.
+
+The original application source code is not publicly licensed. Permission is granted to use this beta binary free of charge for lawful purposes. No rights to redistribute modified versions or use the original application code are granted by this notice. The beta is provided AS IS without warranties, to the extent permitted by applicable law. Third-party components retain their own licenses; see ThirdPartyLicenses.
+
